@@ -1,6 +1,6 @@
 Fftl
 =====
-Fftl is simple C++ template FFT library.
+Fftl is a simple C++ template FFT library.
 
 HowToUse
 ---------
